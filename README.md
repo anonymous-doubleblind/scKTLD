@@ -18,3 +18,15 @@ Make sure all all the packages listed in the *requirements.txt* are installed.
 - networkx >= 2.5
 - scikit-learn >= 0.24.2
 - Cython >= 0.29.33
+
+**2.3 Install from Github**
+
+(1) Download the folder *scKTLD* by git clone
+```
+$ git clone https://github.com/anonymous-doubleblind/scKTLD/
+```
+(2) Install the package *scKTLD* with the following command:
+```
+$ cd scKTLD
+$ python setup.py install  #or you can try pip install .
+```
