@@ -38,5 +38,5 @@ boundary_spec = callTLD(graph_adj)
 displayTLD(graph_adj, boundary_spec, 800, 1000, brecon = True)
 
 plt.show()
-#plt.savefig("/media/biology/datadisk/liuerhu/scTAD/biological significance/Tan_50k/commonTADs_show/"+cell+".tiff", dpi = 350)
+#plt.savefig("path to save/filename.tiff", dpi = 350)
 plt.close()
