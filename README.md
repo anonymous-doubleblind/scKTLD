@@ -42,3 +42,5 @@ $ python example.py
 
 More detailed examples can be find in the jupyter notebook *example.ipynb*
 
+## 3. Contact
+xxx
