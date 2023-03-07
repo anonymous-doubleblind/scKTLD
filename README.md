@@ -28,7 +28,7 @@ $ git clone https://github.com/anonymous-doubleblind/scKTLD/
 (2) Install the package *scKTLD* with the following command:
 ```
 $ cd scKTLD
-$ python setup.py install  #or you can try pip install .
+$ pip install . #or you can try python setup.py install 
 ```
 
 **2.4 Run example**
