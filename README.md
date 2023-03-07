@@ -37,6 +37,7 @@ $ pip install . #or you can try python setup.py install
 ```
 $ cd scKTLD
 $ python example.py
+# If it works properly, the following figure will be shown
 ```
 ![image](https://github.com/anonymous-doubleblind/scKTLD/blob/main/data/exp-sc/Result.png)
 
