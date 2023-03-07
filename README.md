@@ -27,6 +27,7 @@ $ git clone https://github.com/anonymous-doubleblind/scKTLD/
 ```
 (2) Install the package *scKTLD* with the following command:
 ```
+$ conda create -n scKTLD python=3.6
 $ cd scKTLD
 $ pip install . #or you can try python setup.py install 
 ```
