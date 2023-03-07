@@ -37,4 +37,5 @@ $ cd scKTLD
 $ python example.py
 ```
 ![image](https://github.com/anonymous-doubleblind/scKTLD/blob/main/data/exp-sc/Figure_1.png)
+
 Detailed examples can be find in the jupyter notebook *example.ipynb*
