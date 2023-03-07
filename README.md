@@ -31,3 +31,8 @@ $ cd scKTLD
 $ python setup.py install  #or you can try pip install .
 ```
 
+**2.4 Run example**
+```
+$ cd scKTLD
+$ python example.py
+```
