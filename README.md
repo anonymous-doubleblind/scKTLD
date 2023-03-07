@@ -18,7 +18,6 @@ Make sure all all the packages listed in the *requirements.txt* are installed.
 - ticc >= 0.1.6
 - networkx >= 2.5
 - scikit-learn >= 0.24.2
-- Cython >= 0.29.33
 
 **2.3 Install from Github**
 
