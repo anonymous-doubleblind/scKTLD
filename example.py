@@ -42,4 +42,4 @@ displayTLD(graph_adj, boundary_spec, 800, 1000, brecon = True)
 
 plt.show()
 #plt.savefig("path to save/filename.tiff", dpi = 350)
-plt.close()
+#plt.close()
