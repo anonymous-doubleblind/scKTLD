@@ -1,9 +1,3 @@
-#import scKTLD1
-#print(scKTLD1.callTLD)
-
-#from scKTLD1 import callTLD
-#print(callTLD)
-
 import numpy as np
 import sys
 import os
